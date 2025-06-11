@@ -21,7 +21,6 @@ This task demonstrates a basic implementation of a Complex number class in C++ u
 
 ## How to Compile and Run
 
-```bash
 g++ main.cpp -o complex
 ./complex
 
